@@ -1,0 +1,18 @@
+# requirements.txt
+openai
+python-dotenv
+customtkinter
+requests
+SpeechRecognition
+pyttsx3
+PyAudio
+Pillow
+pygame
+face_recognition
+opencv-python
+dlib
+wmi; sys_platform == 'win32'
+pyautogui
+sympy
+pyserial
+numpy
