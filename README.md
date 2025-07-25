@@ -22,4 +22,4 @@ Ready to build your own digital Jarvis?
 git clone https://github.com/your-username/jarvis-ai.git  
 cd jarvis-ai  
 pip install -r requirements.txt  
-python jarvis.py  
+python main.py  
