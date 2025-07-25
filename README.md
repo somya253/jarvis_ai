@@ -1,7 +1,5 @@
 # J.A.R.V.I.S. - Voice Assistant System
 
-![JARVIS Interface](screenshot.png) *Screenshot placeholder*
-
 > "Sometimes you gotta run before you can walk." - Tony Stark
 
 J.A.R.V.I.S. (Just A Rather Very Intelligent System) is a voice-controlled AI assistant inspired by the Iron Man series. With its sleek interface and powerful capabilities, it brings a touch of Stark Industries to your desktop.
